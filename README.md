@@ -18,7 +18,7 @@ The Percona ToolKit is designed to help database administrators and developers e
 
 To get started with the Percona ToolKit, clone the repository using the following command:
 
-```bash
+
 git clone https://github.com/vimalveeramani/Percona_ToolKit.git
 Prerequisites
 Ensure you have the following installed:
