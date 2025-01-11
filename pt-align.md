@@ -1,5 +1,4 @@
 
-```markdown
 # pt-align - Percona Toolkit for Table Alignment
 
 `pt-align` is a utility from **Percona Toolkit** designed to optimize and align tables in MySQL or MariaDB. It helps fix table fragmentation, which can occur when rows are inserted and deleted over time, leading to performance issues. By realigning the table, the utility ensures that physical storage is optimized.
