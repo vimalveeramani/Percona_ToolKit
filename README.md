@@ -15,17 +15,21 @@ Clone the repository with:
 
 ```bash
 git clone https://github.com/vimalveeramani/Percona_ToolKit.git
-Prerequisites
+
+```
+
+## Prerequisites
 Percona Server
 Percona XtraBackup
 Percona Toolkit
-Usage
+
+## Usage
 Explore the tutorials and scripts to learn how to use the included tools.
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository, create a branch, make your changes, and submit a pull request.
 
-License
+## License
 Licensed under the MIT License.
 
 Contact
