@@ -37,13 +37,13 @@ Example Output
 
 If your database contains redundant indexes, the output will look something like this:
 
-# Duplicate keys on test.table_name:
-# PRIMARY KEY and KEY `id_idx` are duplicates. Both are defined on `id` column.
-# DROP KEY `id_idx` on `test`.`table_name`;
+Duplicate keys on test.table_name:
+PRIMARY KEY and KEY `id_idx` are duplicates. Both are defined on `id` column.
+DROP KEY `id_idx` on `test`.`table_name`;
 
-# Duplicate keys on test.another_table:
-# UNIQUE KEY `email_unique` and KEY `email_idx` are duplicates.
-# DROP KEY `email_idx` on `test`.`another_table`;
+Duplicate keys on test.another_table:
+UNIQUE KEY `email_unique` and KEY `email_idx` are duplicates.
+DROP KEY `email_idx` on `test`.`another_table`;
 
 Options
 
