@@ -50,10 +50,10 @@ pt-find --where 'data_length > 1073741824' --host=localhost --user=root --passwo
 ```
 
 ### 2. Find Tables with More than 1 Million Rows
-To find tables in `flow_db` with more than 1 million rows:
+To find tables in `fl_db` with more than 1 million rows:
 
 ```bash
-pt-find --where 'table_rows > 1000000' --host=localhost --user=root --password=yourpassword flow_db
+pt-find --where 'table_rows > 1000000' --host=localhost --user=root --password=yourpassword fl_db
 ```
 
 ### 3. Find Tables Matching Specific Name Pattern
