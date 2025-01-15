@@ -105,9 +105,7 @@ If you encounter issues or bugs, please report them to [Percona JIRA](https://ji
 - Output from the tool (including STDERR).
 - Input files (log/dump/config files).
 
-## Authors
 
-- Daniel Nichter
 
 ## License
 
@@ -116,6 +114,3 @@ This program is free software; you can redistribute it and/or modify it under th
 ## Version
 
 `pt-fk-error-logger` 3.7.0
-```
-
-This README provides a structured overview, usage examples, options, and other key information needed to use the `pt-fk-error-logger` tool.
