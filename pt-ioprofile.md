@@ -24,12 +24,12 @@ brew install percona-toolkit
 ## Usage
 ### Basic Command
 ```sh
-pt-ioprofile --pid=<process_id>
+sudo pt-ioprofile --p <pid>
 ```
 
 ### Example
 ```sh
-pt-ioprofile --pid=1234
+sudo pt-ioprofile --p 1234
 ```
 
 ### Common Options
